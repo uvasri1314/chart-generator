@@ -4,7 +4,7 @@
 
 # Page preview
 
-      ![Screenshot (142)](https://github.com/uvasri1314/chart-generator/assets/100514864/de9ac365-660a-4a42-a972-c6cc0e3ccb8d)
+   C:\Users\uvasr\OneDrive\Pictures\Screenshots\Screenshot (142).png)
 
 # Add data and features
       1. Enter lables and values to the chart
