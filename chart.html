@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chart with User Input</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <div class=image><link rel="stylesheet" type="text/css" href="chart.css" id="image"></div>
+</head>
+<body>
+  <div class="container">
+    <h1>Chart with User Input</h1>
+    <p>Enter data points and labels to generate a chart.</p>
+    <div>
+      <label for="label">Label:</label>
+      <input type="text" id="label" placeholder="Enter a label">
+      <label for="value">Value:</label>
+      <input type="number" id="value" placeholder="Enter a value">
+      <button onclick="addDataPoint()">Add Data Point</button>
+      <button onclick="generateChart()">Generate Chart</button>
+    </div>
+    <div class="dataset">
+      <label for="chartLabel">Chart Label:</label>
+      <input type="text" id="chartLabel" placeholder="Enter chart label">
+      <label for="chartColor">Chart Color:</label>
+      <input type="color" id="chartColor" value="#ff6384">
+      <label for="chartType">Chart Type:</label>
+      <select id="chartType">
+        <option value="bar">Bar</option>
+        <option value="line">Line</option>
+        <option value="pie">Pie</option>
+      </select>
+    </div>
+    <canvas id="myChart" width="400" height="200"></canvas>
+  </div>
+
+  <script src="chart.js"> </script>
+</body>
+</html>
