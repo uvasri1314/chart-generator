@@ -19,7 +19,7 @@
        
  # Add chart lable
 
-        ![image](https://github.com/uvasri1314/chart-generator/assets/100514864/c1f013ca-7d5f-4432-bea7-a6699b016491)
+     https://github.com/uvasri1314/chart-generator/commit/635046ad7165291cebc653da6e5134d53caadb13
 
  # Select color
 
