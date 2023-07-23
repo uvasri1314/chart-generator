@@ -4,7 +4,7 @@
 
 # Page preview
 
-      ![Screenshot (142)](https://github.com/uvasri1314/chart-generator/assets/100514864/5ce540e9-af8e-49b3-8e6e-2b12a0e12db9)
+      
 
 
 # Add data and features
@@ -15,23 +15,20 @@
 
  # Add data points 
 
-       ![Screenshot (148)](https://github.com/uvasri1314/chart-generator/assets/100514864/ae3b6ab6-f2a1-47e2-9c88-8ea67ccdcc61)
+       
        
  # Add chart lable
 
-     https://github.com/uvasri1314/chart-generator/commit/635046ad7165291cebc653da6e5134d53caadb13
+    
 
  # Select color
 
-         ![image](https://github.com/uvasri1314/chart-generator/assets/100514864/6d856321-3d9d-4122-822b-97f5efa3f898)
-
+         
  # Select chart type
 
-          ![Screenshot (147)](https://github.com/uvasri1314/chart-generator/assets/100514864/5de6e54b-a28d-4636-85ec-0e7585cb2c5d)
+         
 
  # Sample output
 
-           ![Screenshot (149)](https://github.com/uvasri1314/chart-generator/assets/100514864/f4d02a55-271d-456e-9732-6870bc4b1b4c)
-
-
+          
 
