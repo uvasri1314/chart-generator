@@ -32,6 +32,6 @@
 
  # Sample output
 
-      ![image](https://github.com/uvasri1314/chart-generator/assets/100514864/20385c99-faee-4aab-aaf9-7385a129c6cc)
+![image](https://github.com/uvasri1314/chart-generator/assets/100514864/20385c99-faee-4aab-aaf9-7385a129c6cc)
 
 
