@@ -4,7 +4,7 @@
 
 # Page preview
 
-      ![Screenshot (142)](https://github.com/uvasri1314/chart-generator/assets/100514864/e40338c2-aff4-4ac1-a62a-97ca9a56191c)
+      ![Alt Screenshot (142)](https://github.com/uvasri1314/chart-generator/assets/100514864/e40338c2-aff4-4ac1-a62a-97ca9a56191c)
 
 
 
